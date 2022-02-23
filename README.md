@@ -2,4 +2,4 @@
 - I'm 19 years old.
 - I’m interested in Web Development.
 - I’m currently learning Front End Dvelopment.
-- I'm  loving in coding because 
+- I'm falling in love with coding because it's my hobby 
